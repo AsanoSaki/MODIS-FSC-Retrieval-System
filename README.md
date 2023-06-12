@@ -26,7 +26,7 @@
 
  - Run `img2csv.py` can convert images to CSV files.
  - Run `train_nn.py` can train neural network model.
- - Run `train_regressors` can train scikit-learn regressor models.
+ - Run `train_regressors.py` can train scikit-learn regressor models.
  - Use `streamlit run app.py` console command can launch Streamlit web server.
 
 ## Author's Information
